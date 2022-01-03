@@ -1,9 +1,9 @@
-let len = 10;
+let len = 14;
 let angle = 0.20;
 let frequency = 0.05;
 
 function setup() {
-    createCanvas(1200, 850);
+    createCanvas(1920, 1080);
     background(0);
 
     for (let i = 1; i < 10000; i++) {
@@ -38,6 +38,10 @@ function setup() {
         }
     }
     saveCanvas('collatz-conjecture', 'jpg');
+  }
+
+  function draw() {
+      
   }
   
 function collatz(n) {
