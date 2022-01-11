@@ -1,6 +1,6 @@
 # Nature of Code
 
-This repository is a series of small programs that simulate natural systems using the P5.js library.
+This repository is a series of small programs that simulate natural systems and mathematial models using the P5.js library.
 
 ## Resources
 - [The Nature of Code](https://natureofcode.com/) - Book
